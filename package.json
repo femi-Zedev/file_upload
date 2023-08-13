@@ -1,0 +1,35 @@
+{
+  "name": "file-upload",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@mantine/core": "^6.0.17",
+    "@mantine/hooks": "^6.0.17",
+    "@types/uuid": "^9.0.2",
+    "eslint": "8.45.0",
+    "eslint-config-next": "13.4.12",
+    "firebase": "^10.1.0",
+    "framer-motion": "^10.15.0",
+    "next": "13.4.12",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-files": "^3.0.0",
+    "recoil": "^0.7.7",
+    "tailwindcss": "^3.3.3",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "20.4.5",
+    "@types/react": "18.2.18",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.27",
+    "typescript": "5.1.6"
+  }
+}

@@ -1,6 +1,6 @@
 
 # File Upload sample
-Gif image
+![](https://github.com/femi-Zedev/file_upload/blob/main/public/fileUploadGif.gif)
 
 Ce projet est un sample d'Upload de fichier avec [Next.js](https://nextjs.org/)
 

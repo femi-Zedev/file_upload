@@ -113,7 +113,7 @@ const FilePicker = (
                             <AnimatePresence >
                                 {selectedFiles.map((file:File, i) => (
                                     <motion.div
-                                        //@ts-ignore
+                                        // @ts-ignore
                                         key={file.id}
                                         initial={{ opacity: 0, width: 0 }}
                                         animate={{ opacity: 1, width: "auto" }}

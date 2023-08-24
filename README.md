@@ -1,8 +1,8 @@
 
 # File Upload sample
-Gif image
+![](https://github.com/femi-Zedev/file_upload/blob/main/public/fileUploadGif.gif)
 
-Ce projet est un sample d'Upload de fichier avec [Next.js](https://nextjs.org/)
+Ce projet est un sample d'Upload de fichier avec [Next.js](https://nextjs.org/) et Firebase
 
 **[Voir la Demo](https://file-upload-sample.netlify.app/)**
 
